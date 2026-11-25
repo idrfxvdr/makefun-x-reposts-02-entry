@@ -1,6 +1,9 @@
 # makefun-x-reposts-02 entry
+[![make.fun · makefun-x-reposts-02](https://make.fun/badge/makefun-x-reposts-02.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+[![rank](https://make.fun/badge/makefun-x-reposts-02/idrfxvdr/makefun-x-reposts-02-entry/rank.svg)](https://make.fun/bounty/makefun-x-reposts-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+[![reward](https://make.fun/badge/makefun-x-reposts-02/idrfxvdr/makefun-x-reposts-02-entry/reward.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
 
-Entry for the make.fun bounty on reposts and likes of make.fun's newest X posts (@makefunai).
+Entry for the [make.fun](https://make.fun) bounty on reposts and likes of make.fun's newest X posts (@makefunai).
 
 - `POSTS.json` lists the addresses of my posts on X, each tied to a make.fun post.
 - `main.ts` (Node 22.18+, standard library only) checks that `POSTS.json` holds 1 to 15 post addresses
